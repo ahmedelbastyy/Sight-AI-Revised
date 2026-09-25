@@ -67,7 +67,13 @@ For a full list of dependencies, see [package.json](./package.json).
 
 ## License
 
-This project is private ("private": true). For collaboration inquiries, please contact the author.
+Copyright © 2026 Ahmed Elbasty. All rights reserved.
+
+The Sight AI source code is publicly available for viewing and evaluation only.
+
+You may not use, modify, build, publish, distribute, sublicense, or sell this software or an app based on it without prior written permission from the copyright holder. This includes distribution through the Apple App Store, Google Play, or any other platform.
+
+Third-party components remain subject to their own licenses.
 
 ---
 
