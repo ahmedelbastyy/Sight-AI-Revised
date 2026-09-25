@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Sight",
+    "name": "Sight Ai - Investing Assistant",
     "slug": "onspace-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,11 +13,16 @@
       "supportsTablet": true,
       "requireFullScreen": true,
       "infoPlist": {
-        "CFBundleDisplayName": "Sight",
+        "CFBundleDisplayName": "Sight Ai - Investing Assistant",
         "CFBundleName": "Sight",
         "ITSAppUsesNonExemptEncryption": false,
-        "UISupportedInterfaceOrientations": ["UIInterfaceOrientationPortrait"],
-        "UISupportedInterfaceOrientations~ipad": ["UIInterfaceOrientationPortrait", "UIInterfaceOrientationPortraitUpsideDown"],
+        "UISupportedInterfaceOrientations": [
+          "UIInterfaceOrientationPortrait"
+        ],
+        "UISupportedInterfaceOrientations~ipad": [
+          "UIInterfaceOrientationPortrait",
+          "UIInterfaceOrientationPortraitUpsideDown"
+        ],
         "NSCameraUsageDescription": "Sight uses the camera to let you photograph stock charts, trading setups, or market data displayed on screens for instant AI-powered pattern detection and technical analysis. All AI-powered analysis features require an active Sight subscription (In-App Purchase).",
         "NSPhotoLibraryUsageDescription": "Sight accesses your photo library to let you select specific saved screenshots of stock charts for AI analysis. You can choose individual photos without granting full library access. AI analysis features require an active Sight subscription (In-App Purchase).",
         "NSPhotoLibraryAddUsageDescription": "Sight saves annotated chart analysis images with entry/exit points and technical indicators to your photo library for future reference."
