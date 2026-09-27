@@ -69,12 +69,13 @@ For a full list of dependencies, see [package.json](./package.json).
 
 Copyright © 2026 Ahmed Elbasty. All rights reserved.
 
-The Sight AI source code is publicly available for viewing and evaluation only.
+Sight is licensed under the GNU General Public License version 3.0 (GPL-3.0). See the LICENSE file for the complete license terms.
 
-You may not use, modify, build, publish, distribute, sublicense, or sell this software or an app based on it without prior written permission from the copyright holder. This includes distribution through the Apple App Store, Google Play, or any other platform.
+## Branding
 
-Third-party components remain subject to their own licenses.
+The GPL-3.0 license applies to the software source code covered by the LICENSE file. It does not grant permission to use the Sight name, Sight logos, icons, or other brand identifiers as trademarks or to imply endorsement by the Sight project or its creator.
 
+Third-party software, libraries, APIs, assets, and other components remain subject to their respective licenses and terms.
 ---
 
 Feel free to add project screenshots, API documentation, feature descriptions, or any other information as needed.
