@@ -218,8 +218,6 @@ See the [`LICENSE`](./LICENSE) file for the complete license terms.
 
 The GPL-3.0 license applies to the software source code covered by the LICENSE file.
 
-It does not grant permission to use the Sight name, Sight logos, icons, or other brand identifiers as trademarks or to imply endorsement by Sight or its creator.
-
 Third-party software, libraries, APIs, assets, and other components remain subject to their respective licenses and terms.
 
 ## Author
